@@ -1,1 +1,1 @@
-# chipmunk_news
+A project to create a news website using everything that I have learned. Will be updated as I learn more
